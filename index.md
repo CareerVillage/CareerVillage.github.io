@@ -22,8 +22,8 @@ These guidelines outline our approach to diversity, equity and inclusion and ser
     - We use Village Censuses and surveys to monitor the diversity of our community and take action where needed to ensure that student-professional diversity is in alignment.
     - Our partnerships with major employers such as PwC, AT&T, and IBM emphasize the importance of racial justice and equity in the workplace, leveraging Employee         Resource Groups and Affinity Networks to diversify our volunteer base.
 - We are dedicated to maintaining a platform that is an inclusive space for students and volunteers.
-    - We have established [identity-based affinity groups] (https://www.careervillage.org/groups/?query=&types=11) on CareerVillage so students can get personalized advice from professionals with similar backgrounds.
-    - Our team of moderators ensure that all content on our platform meets our [Community Guidelines] (http://guide.careervillage.org/), to keep the platform safe for all community members.
+    - We have established [identity-based affinity groups](https://www.careervillage.org/groups/?query=&types=11) on CareerVillage so students can get personalized advice from professionals with similar backgrounds.
+    - Our team of moderators ensure that all content on our platform meets our [Community Guidelines](http://guide.careervillage.org/), to keep the platform safe for all community members.
 
 **Our Team**
 - CareerVillage is committed to establishing a diverse and inclusive staff and team culture
