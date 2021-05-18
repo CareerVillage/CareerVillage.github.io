@@ -38,4 +38,5 @@ CareerVillage is an equal opportunity organization and will not allow discrimina
 We are a learning organization, so if there is anything we can do to improve these guidelines or inclusivity in our operations, please reach out to hello@careervillage.org. 
  
 **Changelog:**
+- Published 5/18/2021 J.Chung
 - Updated 5/18/2021 G.Golmar
